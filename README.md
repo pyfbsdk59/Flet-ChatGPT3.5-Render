@@ -2,10 +2,7 @@
 # 一個使用Flet框架和GPT3.5 turbo模型官方API，快速建置Web app於平台Render。
 
 <div align="center">
-  <img src="demo/flet1.png" width="600"/>
-</d
-<div align="center">
-  <img src="demo/flet2.png" width="600"/>
+  <img src="demo/flet_web01.png" width="600"/>
 </div>
 
 ### [English](https://github.com/pyfbsdk59/Flet-ChatGPT3.5-Render/blob/main/README_en.md)
@@ -17,9 +14,7 @@
 https://flet.dev/docs/guides/python/deploying-web-app/hosting-providers/self-hosting<br><br>
 https://github.com/flet-dev/examples/tree/main/python/apps<br><br>
 
-<div align="center">
-  <img src="demo/flet_web01.png" width="600"/>
-</div>
+
 
 #### 2. 本專案部屬在Render平台上。Render網站中，選擇新增「Web Services」，可用github帳號匯入此專案，可先fork到自己的帳號，然後設定自己的名稱和選擇免費free方案。不需設定環境變數。
 
